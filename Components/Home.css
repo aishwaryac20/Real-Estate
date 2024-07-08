@@ -1,0 +1,207 @@
+.name h3 {
+    color:whitesmoke;
+}
+
+.name hr {
+    color: black;
+}
+
+.main-box {
+
+    margin-left: 200px;
+    padding-top: 0px;
+
+}
+
+.location {
+    margin-right: 20px;
+}
+
+
+.contactinfo {
+
+    width: 45%;
+}
+
+.image {
+
+    width: 50%;
+
+}
+
+.image img {
+    width: 100%;
+}
+
+.nav-link {
+
+    color:wheat;
+}
+
+
+.Row {
+    margin-left: 40px;
+
+}
+
+                                                                   
+.social-icons a {
+    margin-right: 50px;
+
+}
+
+.about-us {
+    background-color: black;
+
+}
+
+.about-section {
+    background-color:rgb(173, 233, 233);
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+
+.about-section :hover {
+
+    cursor: pointer;
+}
+
+.icons {
+    /* margin-top: 30px; */
+    display: flex;
+    flex-direction: row;
+    margin: 0 10px;
+    
+}
+.icons a{
+    display: flex;
+    flex-direction: row;
+}
+
+.social-icon {
+    font-size: 24px;
+    color: #555;
+    margin: 1 10px;
+}
+
+.social-icon:hover {
+    color: #007bff;
+    margin: 1 10px;
+}
+
+            
+
+
+
+
+.service-item {
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.service-item p {
+    color:black;
+}
+
+.service-item :hover {
+
+    cursor: pointer;
+}
+
+
+
+.card:hover {
+    cursor: pointer;
+    background-color: rgb(209, 119, 128);
+    color: rgb(221, 65, 9);
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+    
+}
+
+
+
+
+.card-text {
+    color: #35145e;
+}
+
+
+
+
+
+.contact-container {
+    background-color: #f8f9fa;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.submit-btn {
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+.container {
+    padding-top: 50px;
+    text-align: center;
+   
+       
+       
+    
+    
+    
+}
+
+.navbar {
+    background-color: #333;
+    color:rgb(235, 201, 201);
+    height: 80px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.navbar.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
+.call-whatsapp-icons {
+    position: absolute;
+    top: 23%;
+    right: 80px;
+}
+
+.call-whatsapp-icons .icon {
+    color: white;
+    font-size: 25px;
+    margin-left: 40px;
+
+}
+.social-icons a{
+    display: flex;
+    align-items: center;
+    margin-right: 50%;
+    
+}
